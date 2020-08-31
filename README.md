@@ -1,2 +1,2 @@
-# one-value
+# oneValue
 Add a one value to input.
